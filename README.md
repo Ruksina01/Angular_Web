@@ -22,4 +22,4 @@ Bootstrap: Utilized for responsive design and styling the resume, including layo
 
 Contact
 For any questions or inquiries, please contact:
-Email: your-email@example.com
+Email: ruksina457@gmail.com
