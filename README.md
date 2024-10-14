@@ -1,7 +1,8 @@
-### 🌐 **Angular Static Web Resume**
+# 🌐 **Angular Static Web Resume**
 
-#### Overview
-This project is a **static web resume** built using **Angular**. It demonstrates a variety of Angular concepts, with **Bootstrap** for styling. The resume includes various sections like a **portfolio**, **contact form**, and an **interactive map**.
+## Overview
+Welcome to the **Angular Static Web Resume** project! It demonstrates a variety of Angular concepts, with **Bootstrap** for styling. It includes various sections such as a **portfolio**, **contact form**, and an **interactive map**, making it a comprehensive tool for showcasing your skills and experience.
+
 
 ---
 
@@ -23,6 +24,9 @@ This project is a **static web resume** built using **Angular**. It demonstrates
 ### 🛠 **Technologies and Tools Used**
 - **⚡ Angular:** The main framework used for building the **single-page application**.
 - **🟢 Node.js & npm:** Used for managing **dependencies** and running Angular CLI commands.
+- **📜 JavaScript**: Enhances interactivity and provides dynamic features within the Angular application.
+- **📄 HTML**: Used for structuring the content of the resume.
+- **🎨 CSS**: Applied for styling the layout and ensuring a polished visual presentation.
 - **🎨 Bootstrap:** Utilized for **responsive design** and styling the resume, including layout components like cards, forms, and navigation.
 
 ---
